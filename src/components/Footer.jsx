@@ -1,5 +1,5 @@
 import React from 'react'
-import { Card, CardGroup, Col, Container, Row } from 'react-bootstrap'
+import { CardGroup, Col, Container, Row } from 'react-bootstrap'
 import { Cardtext, DivF } from '../styles/StyledFooter'
 import { Div } from '../styles/ThemeStyled'
 //import { IoMdPin } from 'react-icons/fa';
