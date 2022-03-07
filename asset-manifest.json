@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LuisGarciaDev/Lading-Page-Fylo.git/static/css/main.1a8a0596.css",
+    "main.js": "/LuisGarciaDev/Lading-Page-Fylo.git/static/js/main.259a2c31.js",
+    "index.html": "/LuisGarciaDev/Lading-Page-Fylo.git/index.html",
+    "main.1a8a0596.css.map": "/LuisGarciaDev/Lading-Page-Fylo.git/static/css/main.1a8a0596.css.map",
+    "main.259a2c31.js.map": "/LuisGarciaDev/Lading-Page-Fylo.git/static/js/main.259a2c31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a8a0596.css",
+    "static/js/main.259a2c31.js"
+  ]
+}
