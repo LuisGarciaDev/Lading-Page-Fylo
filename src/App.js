@@ -1,24 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Barra from './components/Barra';
+import Footer from './components/Footer';
+import Home from './components/Home';
+import Home2 from './components/Home2';
+import Newsletter from './components/Newsletter';
+import Productive from './components/Productive';
+import Testimony from './components/Testimony';
+import { Div } from './styles/ThemeStyled';
+
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+  return (<Div>
+    <Barra />
+    <Home />
+    <Home2 />
+    <Productive />
+    <Testimony />
+    <Newsletter />
+    <Footer />
+  </Div>
   );
 }
 
